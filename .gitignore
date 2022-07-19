@@ -1,0 +1,9 @@
+.idea/
+Library/
+Logs/
+obj/
+Packages/packages-lock.json
+RuntmeOutline.sln
+UserSettings/
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+Assembly-CSharp.csproj
